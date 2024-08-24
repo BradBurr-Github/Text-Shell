@@ -1,5 +1,5 @@
 {
-  "name": "Test-Shell",
+  "name": "Text-Shell",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
