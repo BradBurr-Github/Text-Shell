@@ -3,7 +3,7 @@ A text editor PWA application that allow the user to add, edit and delete their 
 ## Description
 Text Shell is a powerful text editor that can be run on multiple environments. It can be run on the browser of your choice, on an application on your computer or even on your phone. This versatile PWA application allows users to edit and save a document that tracks their thoughts or any text that is important to them. Once you use Text Shell, you will never go back to another text editor!
 <br/>
-<img src="./assets/images/webpage.png" alt="Text Shell image"/>
+<img src="./client/src/images/webpage.png" alt="Text Shell image"/>
 <br/>
 ## Table of Contents
 1. [Installation](#installation)
