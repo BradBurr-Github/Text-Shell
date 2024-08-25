@@ -1,9 +1,9 @@
 # J.A.T.E.
 A text editor PWA application that allow the user to add, edit and delete their thoughts and words either on the website or on the application installed on their computer.
 ## Description
-J.A.T.E. (Just Another Text Editor) is a powerful text editor that can be run on multiple environments. It can be run on the browser of your choice, on an application on your computer or even on your phone. This versatile PWA application allows users to edit and save a document that tracks their thoughts or any text that is important to them. Once you use Text Shell, you will never go back to another text editor!
+J.A.T.E. (Just Another Text Editor) is a powerful text editor that can be run on multiple environments. It can be run on the browser of your choice, on an application on your computer or even on your phone. This versatile PWA application allows users to edit and save a document that tracks their thoughts or any text that is important to them. Once you use JATE, you will never go back to another text editor!
 <br/>
-<img src="./client/src/images/webpage.png" alt="Text Shell image"/>
+<img src="./client/src/images/webpage.png" alt="JATE image"/>
 <br/>
 ## Table of Contents
 1. [Installation](#installation)
@@ -25,7 +25,7 @@ This repository is Public and can be used by anyone.
 This project is not currently licensed.
 <a id="contributing"></a>
 ## Contributing
-Please email me with any comments and suggestions about Text Shell.
+Please email me with any comments and suggestions about JATE.
 <a id="tests"></a>
 ## Tests
 npm run test
