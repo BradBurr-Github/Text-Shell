@@ -19,7 +19,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'Text Shell',
+        title: 'JATE',
       }),
 
       // Injects our custom service worker
@@ -32,8 +32,8 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Text Shell',
-        short_name: 'TextShell',
+        name: 'Just Another Text Editor',
+        short_name: 'JATE',
         description: 'The last text editor you will ever need!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
